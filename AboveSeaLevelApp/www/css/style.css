@@ -1,0 +1,25 @@
+.scroll-content {
+  display: table !important;
+  width: 100% !important;
+  height: 80% !important;
+}
+
+.scroll {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.light-blue {
+  background: url('../img/sky-04.jpg') no-repeat center;
+}
+
+.title {
+  line-height: 60px;
+  font-size: 45px;
+}
+
+.medium-text {
+  font-size: 60px;
+  line-height: 70px;
+}
